@@ -28,3 +28,9 @@ main {
   .orange .box {
     background: #643579;
   }
+
+  p {
+    font-family: Verdana;
+    font-size: 11px;
+    text-align: center;
+  }
